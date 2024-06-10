@@ -1,0 +1,341 @@
+* {
+    margin: 0;
+}
+
+/* body
+{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+/*@media screen and (max-width: 375.20px) {}
+    /* .all{
+     display: flex;
+     align-items: center;
+     justify-content: center!important;
+     } */
+
+
+
+     @media screen and (max-width: 400px){}
+    .kamel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center !important;
+}
+
+.kamel
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+}
+
+
+.wall {
+  position:relative;
+  width: 100%;
+  z-index: 1;                                                               
+  height: 55% ;
+}
+
+.img {
+    border-radius: 100px;
+    position: absolute;
+    z-index: 5;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.A {
+    position: relative;
+    width: 100% ;
+    height: 200px;
+}
+
+.B {
+    color: gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    font-style: oblique;
+
+}
+
+.C {
+    color: black;
+    display: flex;
+    font-size: x-large;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    font-style: oblique
+}
+
+.join {
+    color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-style: obliqu;
+    text-align: center;
+    padding: 5px;
+
+}
+
+.falo {
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    width: 100PX;
+    height: 25PX;
+
+}
+
+.payam {
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    width: 100PX;
+    height: 25PX;
+
+}
+
+.more {
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    width: 100PX;
+    height: 25PX;
+
+}
+
+.butt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+
+}
+
+.khat {
+    color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-style: obliqu;
+    text-align: center;
+}
+
+.hed {
+    font-size: larger;
+    font-style: initial;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 6px;
+}
+
+.web {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    background-color: rgb(152, 239, 196);
+    color: black;
+    width: 4rem;
+}
+
+.webb {
+    display: flex;
+    align-items: center;
+    /* width: 4cm; */
+    width: 10rem;
+
+}
+
+.dota {
+    font-style: initial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+    width:fit-content;
+}
+
+.mail {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    background-color: rgb(152, 239, 196);
+    color: black;
+    width:fit-content;
+    width: 4rem;
+}
+
+.maill {
+    display: flex;
+    align-items: center;
+    /*width: 4cm;*/
+    width: 10rem;
+
+}
+
+.zz {
+    font-style: initial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+}
+
+.fone {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    background-color: rgb(152, 239, 196);
+    color: black;
+    width: 4rem;
+}
+
+.fonee {
+    display: flex;
+    align-items: center;
+    /*width: 4cm;*/
+    width: 10rem;
+
+}
+
+.rr {
+    font-style: initial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+}
+
+/*.jin
+{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.jinn
+{
+    display: flex;
+    align-items: center;
+}
+
+.jj
+{
+    font-style: initial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+}*/
+
+.born {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    background-color: rgb(152, 239, 196);
+    color: black;
+    width: 4rem ;
+}
+
+.bornn {
+    display: flex;
+    align-items: center;
+    /*width: 4cm;*/
+    width: 10rem;
+}
+
+.bb {
+    font-style: initial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+}
+
+.khatt {
+    color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-style: obliqu;
+    text-align: center;
+}
+
+.ui {
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    width: 100PX;
+    height: 25PX;
+
+}
+
+.ux {
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    width: 100PX;
+    height: 25PX;
+
+}
+
+.pro {
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    width: 100PX;
+    height: 25PX;
+
+}
+
+.cr {
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    width: 100PX;
+    height: 25PX;
+}
+
+.khattt {
+    color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-style: obliqu;
+    text-align: center;
+}
+
+.pd {
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    height: 25PX;
+    text-align: center;
+    justify-content: center;
+}
+.dokmeii
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

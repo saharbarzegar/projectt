@@ -1,0 +1,73 @@
+.rtl
+{
+    display: flex;
+    justify-content: left;
+}
+
+.top { 
+color: gray ;
+display: inline-block;
+font-weight: bold;
+}
+
+img{
+    border-radius: 50px;
+}
+
+   .left
+{
+
+display: flex;
+
+}    
+.ss {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.img{
+    margin: 20px;
+
+}
+.font
+{
+font-style: oblique;
+font-size : xx-large;
+
+}
+
+.top li a:hover
+{
+ transition: 2s;
+ background-color: blue;
+ border-radius: 10px;
+ color: white;
+
+}
+.top li a
+{
+ color: black;
+ padding: 20px;
+ display: inline-block;
+ text-decoration: none;
+ font-weight: bold;
+}
+.button
+{
+    border-radius: 5cm;
+    width: 5cm;
+    height: 1.5cm;
+    color: white;
+    background-color: rgb(79, 77, 77);
+}
+.gor
+{
+    position: absolute;
+    font-size: larger;
+}
+.mhr
+{
+  position: relative;
+}

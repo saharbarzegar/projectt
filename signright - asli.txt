@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="signrightttt.css" />
+</head>
+
+<body>
+
+    <div class="horizental" id="left" style="overflow-x:auto;">
+    </div>
+
+
+    
+    <div class="horizental" id="right">
+        <div class="container">
+            <img src="apabbi.jpg" id="img" width="100px" height="100px" />
+
+            <div>
+                <h1 id="hello">Hello Again!</h1>
+                <p id="text">Aliquam consectetur et tincidunt praesent enim massa <br>pellentesque vellt odio neque</p>
+            </div>
+        </div>
+        <br>
+
+        <div>
+            <div class="container">
+                <input type="email" name="email" class="input" placeholder="  Email" id="email">
+            </div>
+            <br>
+            <div class="container">
+                <input type="password" name="password" class="input" placeholder="  Password">
+            </div>
+            <div class="remmberMe">
+                <div class="line">
+                    <input type="checkbox" name="remmber" id="remmber">
+                    <label id="labelremmber"> Remmber Me </label>
+                </div>
+                <div>
+                    <hr>
+                </div>
+                <div>
+                    <p><a   href="" id="password">Recovery password</p></a>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <br>
+            <a href="right.html">
+            <button type="submit" id="create" class="a">Login</button></a>
+            <br>
+            <div class="dis">
+                <button type="submit" id="cont"> Sing in with Google</button>
+            </div>
+            <br><br>
+            <div class="khkh">
+                <span class="boshgh">Don't have an account yet? &nbsp &nbsp</span>
+                <a href="" class="dotayi"> Sign up</a>
+            </div>
+        </div>
+        
+
+    </div>
+</body>
+
+</html>

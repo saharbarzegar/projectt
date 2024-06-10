@@ -1,0 +1,193 @@
+body
+{
+    background-color: rgb(149, 149, 151);
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+}
+
+  .kar
+  {
+    font-size: xx-large;
+    border: 1rem;
+    border: 0.5rem solid gray;
+    width: 30rem;
+    height: 20rem;
+    background-color:rgb(242, 209, 148);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+  }
+
+  .mal
+  {
+    font-size: xx-large;
+    border: 0.5rem solid gray;
+    width: 30rem;
+    height: 20rem;
+    background-color:rgb(201, 234, 201);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .sarma
+  {
+
+    font-size: xx-large;
+    border: 3rem;
+    border: 0.5rem solid gray;
+    width:30rem;
+    height: 20rem;
+    background-color:rgb(241, 237, 229);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+  }
+
+  .pri
+  {
+    font-size: xx-large;
+    border: 3rem;
+    border: 0.5rem solid gray;
+    width: 30rem;
+    height: 20rem;
+    background-color:rgb(233, 165, 161);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+  }
+
+  .etela
+  {
+    font-size: xx-large;
+    border: 3rem;
+    border: 0.5rem solid gray;
+    width: 30rem;
+    height: 20rem;
+    background-color:rgb(217, 216, 240);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column  ;
+  }
+
+  .tiket
+  {
+    font-size: xx-large;
+    border: 3rem;
+    border: 0.5rem solid gray;
+    width: 30rem;
+    height: 20rem;
+    background-color:rgb(204, 174, 198);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+  }
+  .with
+  {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+  }
+
+  .malii
+  {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .malll
+  {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .sara
+  {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .sarmayi
+  {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .poor
+  {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .piri
+  {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .etelaa
+  {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .eta
+  {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .took
+  {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .taak
+  {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .soso
+  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    width: 20%;
+    height: 10%;
+    color: white;
+    background-color: rgb(69, 68, 68);
+    text-decoration: none;
+  }
+

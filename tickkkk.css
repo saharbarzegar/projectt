@@ -1,0 +1,139 @@
+@media screen and (max-width: 375px) {
+    .sunni{
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+   }
+ }
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color:  rgb(162, 205, 193);
+}
+.tik
+{
+font-size: xx-large;
+font-family:initial;
+display: flex;
+text-align: center;
+justify-content: center;
+align-items: center;
+}
+.bala
+{
+    height: 4rem;
+    width: 100;
+    background-color: rgb(162, 205, 193);
+}
+.esmi
+{
+  width: 24rem;
+  height: 1.5rem;
+  border-radius: 4px;
+}
+.mozo
+{
+    display: flex;
+    justify-content: center;
+    text-align:center;
+}
+.riz
+{
+    display: flex;
+    justify-content: center;
+    text-align:center;
+    font-size: large;
+}
+.butti
+{
+    color: white;
+    font-size: large;
+    text-align: center;
+    width: 5rem;
+    height: 2rem;
+    background-color: rgb(96, 96, 238);
+    border-radius: 4px;
+}
+.shoma
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.tozi
+{
+    display: flex;
+    justify-content:center;
+    text-align: center;
+
+}
+.nani
+{
+    width: 30rem;
+    height: 7rem;
+   border-radius: 4px;
+
+} 
+.bari
+{
+    color: white;
+    font-size: large;
+    text-align: center;
+    width: 8rem;
+    height: 2rem;
+    background-color: rgb(91, 91, 97);
+    border-radius: 4px;
+}
+.noon
+{
+    color: white;
+    font-size: large;
+    text-align: center;
+    width: 8rem;
+    height: 2rem;
+    background-color: rgb(13, 150, 59);
+    border-radius: 4px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    text-decoration: none; 
+    stroke: none;
+}
+.fini
+{
+    color: white;
+    font-size: large;
+    text-align: center;
+    width: 8rem;
+    height: 2rem;
+    background-color: rgb(13, 150, 59);
+    border-radius: 4px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    text-decoration: none;
+    stroke: black ;
+}
+
+
+
+
+.formi
+{
+    border: 5px solid rgb(230, 152, 73);
+    background-color: rgb(255, 255, 255);
+}
+.jini
+{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+.lili
+{
+    display: flex;
+    flex-direction: column;
+}
+

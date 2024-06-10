@@ -1,0 +1,147 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(142, 165, 148);
+}
+
+.emd {
+    font-size: xx-large;
+    font-family: inherit;
+    color: rgb(217, 76, 37);
+    text-align: center;
+}
+
+.rtl {
+    background-color: rgb(154, 196, 154);
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.colli {
+    height: 100%;
+    width: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.non {
+    font-size: x-large;
+    font-family: inherit;
+    color: rgb(90, 76, 234);
+    text-align: center;
+}
+
+.ford {
+    font-size: medium;
+    border: 5px solid rgb(0, 0, 0);
+    width: 30rem;
+    height: 20rem;
+    background-color: rgb(221, 156, 181);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.fordo {
+    font-size: xx-large;
+}
+
+.bors {
+    font-size: medium;
+    border: 5px solid rgb(0, 0, 0);
+    width: 30rem;
+    height: 20rem;
+    background-color: rgb(245, 194, 155);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.borso {
+    font-size: xx-large;
+}
+
+.core {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.netcore {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sort {
+    font-size: medium;
+    border: 5px solid rgb(0, 0, 0);
+    width: 30rem;
+    height: 20rem;
+    background-color: rgb(166, 204, 220);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.sorto {
+    font-size: xx-large;
+}
+
+.sors {
+    font-size: medium;
+    border: 5px solid rgb(0, 0, 0);
+    width: 30rem;
+    height: 20rem;
+    background-color: rgb(243, 186, 244);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+
+.sorso {
+    font-size: xx-large;
+}
+
+.chand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    width: 40%;
+    height: 30px;
+    color: white;
+    background-color: rgb(79, 77, 77);
+    text-decoration: none;
+}
+
+.www {
+    align-items: center;
+    justify-content: center;
+}
+.noona
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
